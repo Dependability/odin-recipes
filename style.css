@@ -1,4 +1,6 @@
-
+html {
+    font-family: 'Noto Sans', sans-serif;
+}
 body {
     display: flex;
     flex-direction: column;
